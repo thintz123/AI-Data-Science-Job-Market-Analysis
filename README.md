@@ -32,6 +32,7 @@ The analysis uses `AI Job Market Dataset.csv` containing:
 - `total_job_demand_2027.csv` - Demand forecast results
 - `avg_salary_prediction_2027.csv` - Salary forecast results
 - `total_demand_forecast_2027.png` - Visualization of job demand
+- 'AI & Data Science Job Market Visualization-2.pdf' - This visualization provides insights into the AI and Data Science job market, showcasing trends, demands, and salaries within the industry. The Power BI PDF visualization presents interactive charts and graphs that help in understanding the market dynamics effectively. 
 
 ## Installation
 
